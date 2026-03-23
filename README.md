@@ -89,9 +89,7 @@
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zh09-hak&theme=onedark" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zh09-hak)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
