@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 🎯 Aspiring **Machine Learning Engineer / Data Scientist**  
-📍 Armenia  
+📍 Armenia, Sevan, st. Sargis Sevanetsi 22/11
 💡 Building strong ML portfolio with real-world projects  
 
 - 📚 Learning: Machine Learning, Data Analysis
@@ -25,7 +25,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,git" />
+  <img src="https://skillicons.dev/icons?i=py,git,aws,azure,docker,fastapi,git,html,kubernetes,linkedin,linux,mysql,opencv,pycharm,pytorch,sublime,sklearn,selenium,tensorflow,ubuntu,vscode,windows" />
 </p>
 
 <p align="center">
@@ -83,22 +83,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-### 🧠 Machine Learning Projects
-
-- 🚢 **Titanic Survival Prediction**  
-  → Classification model  
-  → Feature engineering + tuning  
-  → (add link)
-
-- 🏠 **House Price Prediction**  
-  → Regression model  
-  → Data preprocessing + evaluation  
-  → (add link)
-
----
-
 ## 🧩 Currently Working On
 
 - 📈 ML fundamentals
@@ -109,8 +93,8 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: your_email_here
-- 💼 LinkedIn: your_linkedin_here
+- 📧 Email: hakobyanzhores22@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/zhores-hakobyan-metal07/
 
 ---
 
@@ -119,10 +103,5 @@
 > "Consistency beats talent when talent doesn't work hard."
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
 </p>
-
----
-
-⭐️ From [Zh09-hak](https://github.com/Zh09-hak)
-
