@@ -13,8 +13,8 @@
 ## 🚀 About Me
 
 🎯 Aspiring **Machine Learning Engineer / Data Scientist**  
-📍 Armenia, Sevan, st. Sargis Sevanetsi 22/11 
-💡 Building strong ML portfolio with real-world projects  
+📍 Armenia, Sevan, st. Sargis Sevanetsi 22/11
+💡 Building strong ML portfolio with real-world projects
 
 - 📚 Learning: Machine Learning, Data Analysis
 - 🧠 Focus: Practice > Theory
