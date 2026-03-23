@@ -82,7 +82,7 @@
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Zh09-hak&theme=react-dark" />
+  <img src="https://activity-graph.herokuapp.com/graph?user=Zh09-hak&theme=react-dark" />
 </p>
 
 ---
