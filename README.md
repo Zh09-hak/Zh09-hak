@@ -24,11 +24,37 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Development environments
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,git,aws,azure,docker,fastapi,git,html,kubernetes,linkedin,linux,mysql,opencv,pycharm,pytorch,sublime,sklearn,selenium,tensorflow,ubuntu,vscode,windows" />
+  <img src="https://skillicons.dev/icons?i=pycharm,sublime,vscode" />
 </p>
+
+---
+
+## 🛠️ OS environments
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
+</p>
+
+---
+
+## 🛠️ ML Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,mysql,opencv,pytorch,sklearn,selenium,tensorflow" />
+</p>
+
+---
+
+## 🛠️ Deployment and 
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,aws,azure,docker,fastapi,kubernetes" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
