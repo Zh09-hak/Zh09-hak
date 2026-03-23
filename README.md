@@ -90,7 +90,7 @@
 ## 📈 𝔾𝕚𝕥ℍ𝕦𝕓 𝔸𝕔𝕥𝕚𝕧𝕚𝕥𝕪 𝔾𝕣𝕒𝕡𝕙
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?user=Zh09-hak&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zh09-hak&theme=high-contrast" />
 </p>
 
 ---
