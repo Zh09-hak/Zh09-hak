@@ -95,10 +95,10 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Commit Calendar
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Zh09-hak" />
+  <img src="/metrics.plugin.isocalendar.fullyear.svg" width="500" />
 </p>
 
 ---
