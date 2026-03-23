@@ -18,18 +18,26 @@
 - 🧠 𝙵𝚘𝚌𝚞𝚜: 𝙿𝚛𝚊𝚌𝚝𝚒𝚌𝚎 > 𝚃𝚑𝚎𝚘𝚛𝚢
 ---
 
-## 🛠️ 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥 𝕖𝕟𝕧𝕚𝕣𝕠𝕟𝕞𝕖𝕟𝕥𝕤
+## 💾 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥 𝕖𝕟𝕧𝕚𝕣𝕠𝕟𝕞𝕖𝕟𝕥𝕤
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pycharm,sublime,vscode" />
+  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
+  <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-## 🛠️ 𝕆𝕊 𝕖𝕟𝕧𝕚𝕣𝕠𝕟𝕞𝕖𝕟𝕥𝕤
+## 💻 𝕆𝕊 𝕖𝕟𝕧𝕚𝕣𝕠𝕟𝕞𝕖𝕟𝕥𝕤
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
 
 ---
@@ -37,12 +45,29 @@
 ## 🛠️ 𝕄𝕃 𝕊𝕥𝕒𝕔𝕜
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,mysql,opencv,pytorch,sklearn,selenium,tensorflow" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/ultralytics-%23111F68.svg?style=for-the-badge&logo=ultralytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ---
 
-## 🛠️ 𝔻𝕖𝕡𝕝𝕠𝕪𝕞𝕖𝕟𝕥 𝕒𝕟𝕕 𝕊𝕥𝕠𝕣𝕒𝕘𝕖
+## 🗄️ 𝔻𝕖𝕡𝕝𝕠𝕪𝕞𝕖𝕟𝕥 𝕒𝕟𝕕 𝕊𝕥𝕠𝕣𝕒𝕘𝕖
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,aws,azure,docker,fastapi,kubernetes" />
@@ -50,22 +75,13 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+## 📊 𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕒𝕥s
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zh09-hak&show_icons=true&theme=highcontrast" />
 </p>
 
----
-
-## 📊 𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕒𝕥𝕚𝕤𝕥𝕚𝕔𝕤
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zh09-hak)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zh09-hak&theme=dark" />
-</p>
-
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zh09-hak&layout=compact&theme=radical" />
 </p>
 
@@ -89,25 +105,9 @@
 
 ## 🔥 𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕣𝕖𝕒𝕜 𝕊𝕥𝕒𝕥𝕤
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Zh09-hak&theme=dark" />
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Zh09-hak&theme=highcontrast&short_numbers=true&date_format=j%2Fn%5B%2FY%5D" />
 </p>
-
----
-
-## 🧩 ℂ𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕎𝕠𝕣𝕜𝕚𝕟𝕘 𝕆𝕟
-
-- 📈 ML fundamentals
-- ⚙️ Deployment (FastAPI, Docker)
-- 📊 Portfolio projects
-
----
-
-## 📫 ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕄𝕖
-
-- 📧 Email: hakobyanzhores22@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/zhores-hakobyan-metal07/
-- 📱 Phone Number: +374 96373708
 
 ---
 
