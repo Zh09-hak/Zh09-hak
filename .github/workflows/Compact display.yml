@@ -1,4 +1,4 @@
-name: Compact_display
+name: Compact display
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.achievements.compact.svg
