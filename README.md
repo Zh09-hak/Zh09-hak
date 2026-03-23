@@ -91,7 +91,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zh09-hak&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center">
-  <img src="[https://activity-graph.herokuapp.com/graph?user=Zh09-hak&theme=react-dark](https://github-profile-trophy.vercel.app/?username=Zh09-hak&theme=onedark)" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Zh09-hak&theme=onedark" />
 </p>
 
 ---
