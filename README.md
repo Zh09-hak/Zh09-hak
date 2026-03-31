@@ -99,18 +99,6 @@
 
 ---
 
-## 📊 𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕒𝕥s
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zh09-hak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zh09-hak&layout=compact&theme=highcontrast" />
-</p>
-
----
-
 ## 📈 𝔾𝕚𝕥ℍ𝕦𝕓 𝔸𝕔𝕥𝕚𝕧𝕚𝕥𝕪 𝔾𝕣𝕒𝕡𝕙
 
 <p align="center">
