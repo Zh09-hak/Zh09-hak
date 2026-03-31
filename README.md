@@ -102,7 +102,7 @@
 ## 📊 𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕒𝕥s
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zh09-hak&show_icons=true&theme=highcontrast" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zh09-hak&show_icons=true&theme=radical" />
 </p>
 
 <p align="left">
